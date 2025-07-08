@@ -71,3 +71,4 @@ Content Strategy: Brands and marketers can identify which categories are gaining
 Global Analysis: Allows comparison of content trends across different countries and audience types.
 
 6. Screenshots
+Dashboard Preview (https://github.com/hubchinmay/Youtube-Dashboard/blob/main/Snapshot%20of%20Dashboard.jpg)
