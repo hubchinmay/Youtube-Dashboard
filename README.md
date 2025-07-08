@@ -1,12 +1,12 @@
 # Youtube-Dashboard
-# 1. Project Title
+### 1. Project Title
 📺 YouTube Pulse: Global Creator Insights Dashboard
 An interactive Power BI dashboard analyzing top YouTubers worldwide—exploring subscriber trends, content categories, regional distribution, and channel growth over time.
 
-# 2. Short Discription
+### 2. Short Discription
 The YouTube Pulse Dashboard is an insightful and interactive Power BI report built to analyze and visualize data from leading YouTube creators across the globe. It highlights key metrics like subscribers, views, uploads, categories, and geographic distribution—empowering content strategists, marketers, and data enthusiasts to uncover trends, compare growth, and explore the digital creator landscape effectively.
 
-# 3. Tech Stack
+### 3. Tech Stack
 The dashboard was built using the following tools and technologies:
 • Power BI Desktop – Main platform used for creating interactive visual reports.
 • Power Query – Utilized for data cleaning, column transformations, and formatting (e.g., date conversion, removing unnecessary fields).
@@ -14,11 +14,11 @@ The dashboard was built using the following tools and technologies:
 • Data Modeling – Flat, single-table model ensuring straightforward visual analysis and filtering.
 • File Format – Developed in .pbix format for Power BI; visuals can be exported as .png or shared via Power BI Service.
 
-# 4. Data Source
+### 4. Data Source
 Source: YouTube dataset (Excel file: Youtube.xlsx) containing data on YouTube channels, including metrics like channel name, category, country, subscribers, video views, and uploads.
 This dataset serves as the foundation for the analysis, allowing for insights into YouTube channel performance across different categories and regions.
 
-# 5.Highlights
+### 5.Highlights
 • Business Problem
 
 The digital creator economy is rapidly growing, yet there’s a lack of visual tools to analyze YouTube channels based on key performance metrics like subscribers, views, uploads, content category, and geography.
@@ -70,5 +70,5 @@ Competitor Benchmarking: New creators can compare their stats against industry l
 Content Strategy: Brands and marketers can identify which categories are gaining traction for targeted collaborations.
 Global Analysis: Allows comparison of content trends across different countries and audience types.
 
-# 6. Screenshots
-Dashboard Preview (https://github.com/hubchinmay/Youtube-Dashboard/blob/main/Snapshot%20of%20Dashboard.jpg)
+### 6. Screenshots
+* Dashboard Preview (https://github.com/hubchinmay/Youtube-Dashboard/blob/main/Snapshot%20of%20Dashboard.jpg)
