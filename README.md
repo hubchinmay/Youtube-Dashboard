@@ -1,9 +1,9 @@
 # Youtube-Dashboard
-1. Project Title
+# 1. Project Title
 📺 YouTube Pulse: Global Creator Insights Dashboard
 An interactive Power BI dashboard analyzing top YouTubers worldwide—exploring subscriber trends, content categories, regional distribution, and channel growth over time.
 
-2. Short Discription
+# 2. Short Discription
 The YouTube Pulse Dashboard is an insightful and interactive Power BI report built to analyze and visualize data from leading YouTube creators across the globe. It highlights key metrics like subscribers, views, uploads, categories, and geographic distribution—empowering content strategists, marketers, and data enthusiasts to uncover trends, compare growth, and explore the digital creator landscape effectively.
 
 3. Tech Stack
