@@ -29,7 +29,7 @@ Questions like:
 – What trends exist across countries or over time?
 ...are difficult to answer quickly using raw spreadsheets alone.
 
-# • Goal of the Dashboard
+ • Goal of the Dashboard
 
 To deliver a clean, interactive Power BI dashboard that:
 – Identifies top YouTubers by subscriber base and activity
@@ -38,7 +38,7 @@ To deliver a clean, interactive Power BI dashboard that:
 – Enables quick comparisons for digital marketers, creators, and researchers
 
 
-# • Walkthrough of Key Visuals
+ • Walkthrough of Key Visuals
 
 Key KPIs (Top Cards)
 – Total Subscribers
@@ -63,7 +63,7 @@ Detailed Table View
 Interactive Slicers
 – Filters for Category, Country, and Year of Creation to personalize analysis
 
-# • Business Impact & Insights
+ • Business Impact & Insights
 
 Market Research: Helps analysts and strategists understand what types of content are most successful by region or genre.
 Competitor Benchmarking: New creators can compare their stats against industry leaders.
